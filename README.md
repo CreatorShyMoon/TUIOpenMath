@@ -2,12 +2,12 @@
 
 > Терминальный менеджер открытой математической среды для Linux: профили, JupyterLab, Julia, Python-окружения и вычислительные kernels в одном `ncurses`-интерфейсе.
 
-![C](https://img.shields.io/badge/C-11-blue)
+![C11](https://img.shields.io/badge/C-C11-blue)
+![POSIX](https://img.shields.io/badge/POSIX-compatible-green)
 ![ncurses](https://img.shields.io/badge/UI-ncurses-green)
 ![Linux](https://img.shields.io/badge/platform-Linux-lightgrey)
 ![Jupyter](https://img.shields.io/badge/JupyterLab-supported-orange)
 ![Status](https://img.shields.io/badge/status-educational%20project-yellow)
-
 ---
 
 ## О проекте
